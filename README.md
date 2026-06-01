@@ -5,7 +5,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/gauravpv?style=for-the-badge&logo=github&color=181717)](https://github.com/gauravpv?tab=followers)
-[![Repos](https://img.shields.io/badge/Public%20repos-3-58A6FF?style=for-the-badge&logo=github)](https://github.com/gauravpv?tab=repositories)
+[![Repos](https://img.shields.io/badge/Public%20repos-4-58A6FF?style=for-the-badge&logo=github)](https://github.com/gauravpv?tab=repositories)
 
 </div>
 
