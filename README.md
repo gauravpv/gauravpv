@@ -6,6 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/gauravpv?style=for-the-badge&logo=github&color=181717)](https://github.com/gauravpv?tab=followers)
 [![Repos](https://img.shields.io/badge/Public%20repos-4-58A6FF?style=for-the-badge&logo=github)](https://github.com/gauravpv?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravpv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravpv/)
 
 </div>
 
@@ -20,7 +21,7 @@ I care about the details that separate demos from systems you'd ship: async boun
 - 🔭 Currently building **[OpsConsole](https://github.com/gauravpv/OpsConsole)** — unified monitoring & admin for DevOps teams  
 - 🧠 Recently shipped **[IntelliDesk](https://github.com/gauravpv/Intellidesk)** — AI ticket triage with Kafka, Redis, and Spring AI  
 - 🛠️ Stack I reach for most: **Java 21 · Spring Boot 3 · Kafka · PostgreSQL · Redis · Docker**  
-- 📫 Reach me: add your email or LinkedIn in [profile settings](https://github.com/settings/profile) (Website field works great for LinkedIn)
+- 📫 Connect on **[LinkedIn](https://www.linkedin.com/in/gauravpv/)**
 
 ---
 
