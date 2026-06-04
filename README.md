@@ -20,7 +20,7 @@ I care about the details that separate demos from systems you'd ship: async boun
 
 - 🔭 Currently building **[OpsConsole](https://github.com/gauravpv/OpsConsole)** — unified monitoring & admin for DevOps teams  
 - 🧠 Recently shipped **[IntelliDesk](https://github.com/gauravpv/Intellidesk)** — AI ticket triage with Kafka, Redis, and Spring AI  
-- 🛠️ Stack I reach for most: **Java 21 · Spring Boot 3 · Kafka · PostgreSQL · Redis · Docker**  
+- 🛠️ Stack I reach for most: **Java 21 · Spring Boot 3 · Kafka · PostgreSQL · Redis · Docker . Kubernetes**  
 - 📫 Connect on **[LinkedIn](https://www.linkedin.com/in/gauravpv/)**
 
 ---
